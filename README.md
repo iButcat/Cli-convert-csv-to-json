@@ -16,7 +16,7 @@ python3 -m venv /path/to/new/virtual/environment
 when it's done run:
 
 ```
-"source venv/bin/activate"
+source venv/bin/activate
 ```
 
 then you need to install some dependency:
